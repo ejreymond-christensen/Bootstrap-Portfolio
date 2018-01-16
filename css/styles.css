@@ -34,8 +34,18 @@ body{
   max-width: 300px;
   margin-right: 10px;
 }
+
 p{
   text-align: justify;
+}
+
+h2, h3{
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #4aaaa5;
+}
+
+.imgCard{
+  margin-bottom: 15px;
 }
 
 .navBottom{
