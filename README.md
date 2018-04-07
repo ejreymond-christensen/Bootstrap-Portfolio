@@ -1,2 +1,2 @@
-# ut-Bootstrap-Portfolio
-Week 2 - Bootstrap Portfolio
+# Bootstrap-Portfolio
+Replication of Basic-Portfolio using Bootstrap
